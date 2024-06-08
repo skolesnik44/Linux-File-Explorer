@@ -59,19 +59,24 @@ Click on desired file/directory to rename then click ‘Rename’ button and wil
   
 ![Capture](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/42c5d061-2b3a-4d34-994a-3a154f9dc91a)
 
+
 ![Capture2](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/6039a6d0-60a9-47ae-b906-422076be47d6)
+
 
 ![Capture3](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/1b31bc95-17af-40d2-bf5d-b901b9112109)
   
 **For Directories**
   
 ![Captured](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/176033fb-a182-4bdf-8cf8-37c1b0cc910d)
+
 ![Captured2](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/add7b8f8-91a3-4065-8b37-28422496b7df)
+
 ![Captured3](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/e20f219a-c033-4ed6-b467-419d47fee6f1)
   
 ### **Copying a file to another location** 
 
 Click on the file you wish to copy, click on ‘Copy’ then double click on the destination you wish for the file to be copied to 
+
 ![Capture](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/32a9ba23-8f9c-4bfa-89da-48b035ec724a)
 ![Capture2](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/d0c89db5-8664-4df5-9b4c-76c426ac3fb0)
 ![Capture3](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/c374cc55-f878-4a15-ac10-19b79fd848e1)
@@ -84,14 +89,18 @@ Click on file/directory you wish to delete then click on ‘Delete’
 **For Files:**
 
 ![Capturef](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/3be2dd68-1125-4906-b665-41db41dfe39b)
+
 ![Capturef2](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/c0511d7e-377f-42f5-a6ad-23051cdaff9d)
+
 ![Capturef3](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/fdff028b-a646-4d34-9403-9fa10c994066)
 
  
 **For Directories:**
 
 ![Captured1](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/b0ef0c94-5cd4-408e-a46a-b1878061f319)
+
 ![Captured2](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/847e4010-b41f-4ebc-9c87-ea64435163ef)
+
 ![Captured3](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/93f0c823-85b5-4ace-b08e-63599a21e95d)
 
 
