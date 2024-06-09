@@ -1,5 +1,7 @@
+# Linux File Explorer
+
  
-### **General Navigation**
+## **General Navigation**
 
 - Files are in white, and directories are in blue 
 - Single click on a file or directory to select it 
@@ -14,7 +16,7 @@
 
  
 
-### **Creating Directories**
+## **Creating Directories**
 
 Click on ‘Create Directory’ and input desired directory name, this will create a directory within the directory you are currently in 
 
@@ -25,7 +27,7 @@ Click on ‘Create Directory’ and input desired directory name, this will crea
 
  
 
-### **Moving file/directory**
+## **Moving file/directory**
 
 Double click on a file/directory then click on ‘Move’, this will open a menu from which you can choose the desired destination by double clicking on the destination
 
@@ -45,13 +47,12 @@ Double click on a file/directory then click on ‘Move’, this will open a menu
 ![Captured3](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/fd1fb07d-82e2-448b-96c8-94d7a7f45456)
   
 
-### **Updating files/directories**
+## **Updating files/directories**
 
 Click on the ‘Refresh’ to update the files and directories displayed 
 
  
-
-### **Renaming a file/directory** 
+## **Renaming a file/directory** 
 
 Click on desired file/directory to rename then click ‘Rename’ button and will prompt user for desired file name 
 
@@ -73,7 +74,7 @@ Click on desired file/directory to rename then click ‘Rename’ button and wil
 
 ![Captured3](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/e20f219a-c033-4ed6-b467-419d47fee6f1)
   
-### **Copying a file to another location** 
+## **Copying a file to another location** 
 
 Click on the file you wish to copy, click on ‘Copy’ then double click on the destination you wish for the file to be copied to 
 
@@ -82,7 +83,7 @@ Click on the file you wish to copy, click on ‘Copy’ then double click on the
 ![Capture3](https://github.com/skolesnik44/simple-linux-file-explorer/assets/172089307/c374cc55-f878-4a15-ac10-19b79fd848e1)
 
  
-### **Deleting a file/directory** 
+## **Deleting a file/directory** 
 
 Click on file/directory you wish to delete then click on ‘Delete’ 
 
@@ -105,7 +106,7 @@ Click on file/directory you wish to delete then click on ‘Delete’
 
 
 
-### **Creating a File** 
+## **Creating a File** 
 
 Click on ‘Create File’ and it will ask user for desired file name and create a file within the directory you are currently in 
 
